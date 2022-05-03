@@ -552,7 +552,7 @@ footer {
 
     .comment {
         width: 80%;
-        padding: 10px;
+        padding: 20px;
         margin: 10px auto;
     }
 
@@ -576,6 +576,10 @@ footer {
 
     .avatar {
         width: 15%;
+    }
+
+    .kyle-founder{
+        margin: 10px;
     }
 
     .kyle-founder p {
