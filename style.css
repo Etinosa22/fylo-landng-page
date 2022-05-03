@@ -564,11 +564,12 @@ footer {
 
     .comment p {
         font-size: .65em;
-        line-height: 15px;
+        line-height: 17px;
         font-weight: 400;
         margin: 10px auto;
-        width: 100%;
+        width: 95%;
     }
+    
     .name {
         margin: 0;
         margin-left: 5px;
